@@ -25,6 +25,6 @@ The goal is to practice class structure design, i.e. focusing on design patterns
 Create a repository on github.com or gitlab.com and commit the source code there to a separate branch (e.g. feature/cms) on an ongoing basis, then commit that branch as a pull request / merge request to the master and add the Reviewer role to the following accounts (depending on your chosen platform) for that pull request:
 
 
-- Jakub Prusa: https://github.com/jakubprusa https://gitlab.com/jakubprusa
+- Vladimir Blazek: https://github.com/blazekv
 
 Don't forget to invite these accounts to the project/repository at the beginning, so we can look at the code continuously and then adding the reviewer role works. 
